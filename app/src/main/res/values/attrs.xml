@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--折线图-->
+    <declare-styleable name="linchart">
+        <!--坐标线颜色-->
+        <attr name="xylinecolor" format="color"></attr>
+        <!--坐标线宽-->
+        <attr name="xylinewidth" format="dimension"></attr>
+        <!--坐标文字颜色-->
+        <attr name="xytextcolor" format="color"></attr>
+        <!--坐标文字大小-->
+        <attr name="xytextsize" format="dimension"></attr>
+        <!--折线颜色-->
+        <attr name="linecolor" format="color"></attr>
+        <!--折线图-->
+        <attr name="interval" format="dimension"></attr>
+        <!--背景颜色-->
+        <attr name="bgcolor" format="color"></attr>
+    </declare-styleable>
+</resources>
